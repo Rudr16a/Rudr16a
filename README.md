@@ -1,6 +1,6 @@
 ![logo](https://github.com/Rudr16a/Rudra/blob/main/Screenshot%202024-02-09%20182152.png)
 <h1 align="center">Hi 👋, I'm Rudra Pratap Dash</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudr16a&label=Profile%20views&color=0e75b6&style=flat" alt="rudr16a" /> </p>
 
